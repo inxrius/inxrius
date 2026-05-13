@@ -1,5 +1,5 @@
 # Hello there 👋
-12512515215124
+
 ## 💻 About me
 I'm a beginning Python developer and student at ITMO University. Passionate about coding and developing. Currently seeking interships/junior roles to start my IT career.
 
