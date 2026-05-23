@@ -2,7 +2,7 @@
 
 ## 💻 About me
 I'm a beginning Python developer and student at ITMO University. Passionate about coding and developing. Currently seeking interships/junior roles to start my IT career.
-45123123
+
 ## 🛠 Stack
 
 🐍 **Programming languages**:
