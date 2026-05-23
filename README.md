@@ -4,7 +4,7 @@
 I'm a beginning Python developer and student at ITMO University. Passionate about coding and developing. Currently seeking interships/junior roles to start my IT career.
 
 ## 🛠 Stack
-
+123321123321
 🐍 **Programming languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
