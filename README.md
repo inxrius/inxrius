@@ -43,10 +43,10 @@ List of projects (not finished yet)
 | Certificate | Organization | Date | Link |
 |------------|-------------|------|--------|
 | "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/2907344) |
-| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр]([ссылка]) |
+| "Поколение Python": курс для продвинутых | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/2910855) |
 | Frontend: Start | itlogia | 2025 | [Просмотр](https://itlogia.ru/certificates/intensive/18604-111908) |
-| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр]([ссылка]) |
-| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр]([ссылка]) |
+| "Поколение Python": курс для профессионалов | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/3273916) |
+| "Поколение Python": ООП | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/3305159) |
 
 ## 🏆 Achievements
 
