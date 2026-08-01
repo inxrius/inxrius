@@ -32,7 +32,6 @@ I'm a beginning Python/Go Backend developer and student at ITMO University. Pass
 
 📚 **Learning now**:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 <!-- [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io) !-->
 
@@ -50,16 +49,16 @@ List of projects (not finished yet)
 
 ## 🏆 Achievements
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inxrius&show_icons=true&theme=radical)](https://github.com/inxrius)
 
 ## 📫 CONTACT
 - Phone: 📞 +7(901)-371-20-51
-- Telegram: 📘 [@inxrius](https://t.me/inxrius)
+- Telegram: 📘 [@th4em](https://t.me/th4em)
 - Email: 📧 inariy3146@gmail.com
 
 
 <!--
-**deathblxde/deathblxde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**inxrius/inxrius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
