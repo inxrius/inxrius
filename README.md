@@ -19,10 +19,8 @@ I'm a beginning Python/Go Backend developer and student at ITMO University. Pass
 
 🔧 **Testing**:
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
-<!-- 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
-!-->
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 
 <!--
 🧪 **DevOps**:
@@ -41,15 +39,14 @@ I'm a beginning Python/Go Backend developer and student at ITMO University. Pass
 ## 📁 My projects
 List of projects (not finished yet)
 
-## 📈 Certifications
-List of certifications (not finished yet)
-<!--
+## 📜 Certifications
 | Certificate | Organization | Date | Link |
 |------------|-------------|------|--------|
+| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/2907344) |
+| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр]([ссылка]) |
 | Frontend: Start | itlogia | 2025 | [Просмотр](https://itlogia.ru/certificates/intensive/18604-111908) |
-| JavaScript Developer | freeCodeCamp | 2023 | [Просмотр]([ссылка]) |
-| Docker Certified | Docker Inc. | 2023 | [Просмотр]([ссылка]) |
-!-->
+| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр]([ссылка]) |
+| "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр]([ссылка]) |
 
 ## 🏆 Achievements
 
