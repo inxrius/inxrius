@@ -1,4 +1,4 @@
-# прив (hi) 👋
+# привет (hi) 👋
 
 ## 💻 About me
 I'm a beginning Python/Go Backend developer and student at ITMO University.\
