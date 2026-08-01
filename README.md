@@ -62,7 +62,7 @@ List of projects (not finished yet)
 
 | Tournament | Organization | Place | Date | Link |
 |------------|--------------|-------|------|------|
-| Баттл вузов (Young Con) | Yandex | 106 | 2026 | [Просмотр](achievements/106.pdf) |
+| Баттл вузов (Young Con) | Yandex | 106 | 2026 | [Просмотр](https://disk.yandex.ru/i/bkJuEc29dVluFw) |
 | True Tech Champ 2026 | MTS | - | 2026 | [Просмотр]() |
 
 ### Codewars
