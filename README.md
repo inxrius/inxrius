@@ -1,7 +1,9 @@
 # прив (hi) 👋
 
 ## 💻 About me
-I'm a beginning Python/Go Backend developer and student at ITMO University. Currently seeking interships/junior roles.
+I'm a beginning Python/Go Backend developer and student at ITMO University.\
+Currently seeking interships/junior roles.\
+"Python" > "Go" (ASCII)
 
 ## 🛠 Stack
 
@@ -23,6 +25,7 @@ I'm a beginning Python/Go Backend developer and student at ITMO University. Curr
 
 🔧 **Testing**:
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
+![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat&logo=Python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 
