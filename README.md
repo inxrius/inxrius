@@ -1,14 +1,15 @@
 # Hello there 👋
 
 ## 💻 About me
-I'm a beginning Python developer and student at ITMO University. Passionate about coding and developing. Currently seeking interships/junior roles to start my IT career.
+I'm a beginning Python/Go Backend developer and student at ITMO University. Passionate about coding and developing. Currently seeking interships/junior roles.
 
 ## 🛠 Stack
 
 🐍 **Programming languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ⚡ **Frontend**:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
