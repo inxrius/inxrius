@@ -58,6 +58,8 @@ List of projects (not finished yet)
 | "Поколение Python": ООП | BEEGEEK (Python Generation) | 2026 | [Просмотр](https://stepik.org/cert/3305159) |
 
 ## 🏆 Achievements
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=inxrius)](https://git.io/streak-stats) -->
+
 | Tournament | Organization | Place | Date | Link |
 |------------|--------------|-------|------|------|
 | Баттл вузов (Young Con) | Yandex | 106 | 2026 | [Просмотр](achievements/106.pdf) |
