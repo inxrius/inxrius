@@ -1,7 +1,7 @@
 # привет (hi) 👋
 
 ## 💻 About me
-I'm a beginning Python/Go Backend developer and student at ITMO University.\
+Beginning Python/Go Backend developer and student at ITMO University.\
 Currently seeking interships/junior roles.\
 "Python" > "Go" (ASCII)
 
@@ -50,7 +50,7 @@ List of projects (not finished yet)
 
 ## 📜 Certifications
 | Certificate | Organization | Date | Link |
-|------------|-------------|------|--------|
+|-------------|--------------|------|------|
 | "Поколение Python": курс для начинающих | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/2907344) |
 | "Поколение Python": курс для продвинутых | BEEGEEK (Python Generation) | 2023 | [Просмотр](https://stepik.org/cert/2910855) |
 | Frontend: Start | itlogia | 2025 | [Просмотр](https://itlogia.ru/certificates/intensive/18604-111908) |
@@ -58,10 +58,16 @@ List of projects (not finished yet)
 | "Поколение Python": ООП | BEEGEEK (Python Generation) | 2026 | [Просмотр](https://stepik.org/cert/3305159) |
 
 ## 🏆 Achievements
+| Tournament | Organization | Place | Date | Link |
+|------------|--------------|-------|------|------|
+| Баттл вузов (Young Con) | Yandex | 106 | 2026 | [Просмотр](https://stepik.org/cert/2907344) |
+| True Tech Champ 2026 | MTS | - | 2026 | [Пока нет]() |
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inxrius&show_icons=true&theme=radical)](https://github.com/inxrius)
+### Codewars
+![Codewars](https://github.r2v.ch/codewars?user=inxrius)
 
-## 📫 CONTACT
+
+## 📫 Contact
 - Phone: 📞 +7 (901)-371-20-51
 - Telegram: 📘 [@th4em](https://t.me/th4em)
 - Email: 📧 inariy3146@gmail.com
