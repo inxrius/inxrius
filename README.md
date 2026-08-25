@@ -1,6 +1,6 @@
 # привет (hi) 👋
 
-## 💻 About m
+## 💻 About me
 Beginning Python/Go Backend developer and student at ITMO University.\
 Currently seeking interships/junior roles.\
 "Python" > "Go" (ASCII)
