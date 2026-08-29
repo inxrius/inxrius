@@ -67,7 +67,7 @@ List of projects (not finished yet)
 | True Tech Champ 2026 | MTS | - | 2026 | [Просмотр]() |
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/inxrius)
+![LeetCode](https://leetcard.jacoblin.cool/inxrius?ext=activity&theme=dark)
 
 ### Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=inxrius)
