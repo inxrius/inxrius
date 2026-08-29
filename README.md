@@ -66,6 +66,9 @@ List of projects (not finished yet)
 | Хакатон «Лаборатория кода» | Avito | Участие | 2026 | - |
 | True Tech Champ 2026 | MTS | - | 2026 | [Просмотр]() |
 
+### LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/inxrius)
+
 ### Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=inxrius)
 
