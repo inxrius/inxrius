@@ -63,7 +63,7 @@ List of projects (not finished yet)
 | Tournament | Organization | Place | Date | Link |
 |------------|--------------|-------|------|------|
 | Баттл вузов (Young Con) | Yandex | 106 | 2026 | [Просмотр](https://disk.yandex.ru/i/bkJuEc29dVluFw) |
-| Хакатон «Лаборатория кода» | Avito | Участие | 2026 | - |
+| Хакатон «Лаборатория кода» | Avito | Участие | 2026 | [Просмотр](achievements/laboratory_code.pdf) |
 | True Tech Champ 2026 | MTS | - | 2026 | [Просмотр]() |
 
 ### LeetCode
